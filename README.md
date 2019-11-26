@@ -1,5 +1,3 @@
-![](img/animation.gif)
-
 **INSTALLATION GIT**
  - Allez sur https://git-scm.com/downloads et téléchargez git pour votre OS.
  - Lancez l'installation de git sans oublier de cocher la case "Additional Icon" + "On The Desktop" comme ci dessous:
